@@ -1,0 +1,17 @@
+//
+//  Staging.xcconfig
+//  Login-SwiftUI
+//
+//  Created by Reema Poojara on 23/12/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+ROOT_URL = https:/$()/www.staging.mytestapp.thoughtbot.com
+
+// Keys
+API_KEY = 89dhdyd93380dkqmoe_hd830dhq
+
+// App Settings
+PRODUCT_NAME = Login-SwiftUI (staging)
+PRODUCT_BUNDLE_IDENTIFIER = com.demo.Login-SwiftUI.staging
